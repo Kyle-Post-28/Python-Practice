@@ -1,3 +1,7 @@
+#Filename: exercise1.py
+#Author: Kyle Post
+#Date: May 9, 2017
+#Purpose: First python code. Starting with simple print statements.
 print "Hello World!"
 print "Hello Again"
 print "I like typing this"

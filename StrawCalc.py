@@ -7,6 +7,7 @@
 #of the dome is a hexagon with a total of 14 sides to
 #complete the dome. Each side is constructed out of 
 #triangles, 3 straws per triangle
+#Goes with exercise 3
 
 #Use print statements to briefly explain word problem
 print "This geodesic dome will have 14 sides."

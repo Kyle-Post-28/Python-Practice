@@ -1,8 +1,9 @@
-#Filename: NewForm.py
+#Filename: NewForm11.py
 #Author: Kyle Post
 #Date: May 11, 2017
 #Purpose: To create my own form and practice
 #raw inputs and displaying them in strings
+#Goes with exercise 11
 		
 #Create my own form using raw_input functions
 print "What is your favorite video game?",

@@ -7,6 +7,7 @@
 #of the dome is a hexagon with a total of 14 sides to
 #complete the dome. Each side is constructed out of 
 #triangles, 3 straws per triangle
+#Goes with exercise 4
 
 #This program is based off the previous version
 #except this time we are going to use variables

@@ -1,4 +1,4 @@
-#Filename:StrawCalc.py
+#Filename:StrawCalc3.py
 #Author: Kyle Post
 #Date: May 9, 2017
 #Purpose: I teach after school architecture classes
